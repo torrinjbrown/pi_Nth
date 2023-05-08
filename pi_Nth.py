@@ -2,9 +2,6 @@
 
 import math
 
-#Creating a base input for the user
-user_answer = 'yes'
-user = input("Would you like to round pi the Nth digit: ")
 
 #Set a condition if the user doesnt answer
 while True:
